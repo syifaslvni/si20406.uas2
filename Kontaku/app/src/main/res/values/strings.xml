@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kontaku</string>
+
+        <string name="nama">Name</string>
+        <string name="nomor">Phone Number</string>
+        <string name="save_contact">save contact</string>
+        <string name="contact">CONTACT</string>
+        <string name="gambar">gambar</string>
+        <string name="id">id</string>
+        <string name="hapus">hapus</string>
+        <string name="add_number">add Number</string>
+</resources>
